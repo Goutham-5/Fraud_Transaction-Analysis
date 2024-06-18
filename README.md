@@ -1,8 +1,8 @@
 
 Transaction Frauds
-The dataset named 'transaction.csv can be found in Kaggle.
+Dataset Used: 'transaction.csv'
 
-Your job is to analyze a large dataset of fraud in Financial Payment Services. The dataset has five types of transactions:
+Analyzes a large dataset of fraud in Financial Payment Services. The dataset has five types of transactions:
 
 CASH-IN is any deposit.
 CASH-OUT is any withdrawal.
